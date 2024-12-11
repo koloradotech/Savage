@@ -1,109 +1,110 @@
 # Savage
 collection of penteting, OSINT, and security repos
 
+# Savage
 
 
-https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE.git
-https://github.com/hmaverickadams/Beginner-Network-Pentesting.git
-https://github.com/androguard/androguard.git
-https://github.com/thehackingsage/hacktronian.git
-https://github.com/insightglacier/Dictionary-Of-Pentesting.git
-https://github.com/m14r41/PentestingEverything.git
-https://github.com/Tylous/SniffAir.git
-https://github.com/m4n3dw0lf/pythem.git
-https://github.com/gokulapap/Reconator.git
-https://github.com/casterbyte/NetworkNightmare.git
-https://github.com/swisskyrepo/HardwareAllTheThings.git
-https://github.com/Chudry/Xerror.git
-https://github.com/luigigubello/PayloadsAllThePDFs.git
-https://github.com/jmortega/python-pentesting.git
-https://github.com/Ha3MrX/Hacking.git
-https://github.com/redcode-labs/Citadel.git
-https://github.com/stampery/mongoaudit.git
-https://github.com/pop3ret/AWSome-Pentesting.git
-https://github.com/DonatoReis/Secbuild.git
-https://github.com/takuzoo3868/penta.git
-https://github.com/danieldurnea/FBI-tools.git
-https://github.com/Hrishikesh7665/Android-Pentesting-Checklist.git
-https://github.com/sundowndev/hacker-roadmap.git
-https://github.com/RhinoSecurityLabs/Swagger-EZ.git
-https://github.com/p1ngul1n0/blackbird.git
-https://github.com/gat3way/AirPirate.git
-https://github.com/hmaverickadams/Beginner-Network-Pentesting.git
-https://github.com/0x90/vpn-arsenal.git
-https://github.com/v3n0m-Scanner/V3n0M-Scanner.git
-https://github.com/Ranginang67/Firecrack.git
-https://github.com/arch3rPro/PentestTools.git
-https://github.com/killswitch-GUI/PenTesting-Scripts.git
-https://github.com/Telefonica/HomePWN.git
-https://github.com/infosecn1nja/Red-Teaming-Toolkit.git
-https://github.com/InfosecMatter/Minimalistic-offensive-security-tools.git
-https://github.com/hak5/bashbunny-payloads.git
-https://github.com/hak5/packetsquirrel-payloads.git
-https://github.com/liamg/gitjacker.git
-https://github.com/harsh-bothra/learn365.git
-https://github.com/hak5/usbrubberducky-payloads.git
-https://github.com/VenezuelanHackingTeam/blackbuntu.git
-https://github.com/CyberSecurityUP/PenTest-Consulting-Creator.git
-https://github.com/devploit/pwny.cc.git
-https://github.com/UkraineSecOps/PenTestingTutorials.git
-https://github.com/ZephrFish/Blog_Backup.git
-https://github.com/M4cs/DarkSpiritz.git
-https://github.com/vonahisec/pentesting_scripts.git
-https://github.com/PacktPublishing/-Ethical-Hacking-and-CompTIA-PenTest-Exam-Prep-PT0-002-.git
-https://github.com/rng70/Hacking-Resources.git
-https://github.com/CyberSecArmy/AWS-Offensive-Exploitation---Pentesting.git
-https://github.com/sarthak1598/PentestingWithPython-ToolBox.git
-https://github.com/simplerhacking/Evilginx3-Phishlets.git
-https://github.com/Sh0ckFR/Infosec-Useful-Stuff.git
-https://github.com/FreeZeroDays/OSS.git
-https://github.com/t3l3machus/PowerShell-Obfuscation-Bible.git
-https://github.com/arch3rPro/PentestTools.git
-https://github.com/mgeeky/Penetration-Testing-Tools.git
-https://github.com/Chudry/Xerror.git
-https://github.com/wddadk/Offensive-OSINT-Tools.git
-https://github.com/ANK1036Official/Git_Pentesting_Toolkit.git
-https://github.com/pablosnt/rekono.git
-https://github.com/M4cs/BabySploit.git
-https://github.com/cracker911181/Cracker-Tool.git
-https://github.com/sqlmapproject/sqlmap.git
-https://github.com/dmayer/idb.git
-https://github.com/screetsec/Sudomy.git
-https://github.com/AlexisAhmed/Python3PentestingTools.git
-https://github.com/pikpikcu/Pentest-Tools-Framework.git
-https://github.com/TheBurnsy/Vehicle-OSINT-Collection.git
-https://github.com/UndeadSec/SocialFish.git
-https://github.com/lockfale/OSINT-Framework.git
-https://github.com/sinwindie/OSINT.git
-https://github.com/s0md3v/Pho
-https://github.com/laramies/theHarvester.gitton.git
-https://github.com/cipher387/osint_stuff_tool_collection.git
-https://github.com/jivoi/awesome-osint.git
-https://github.com/DedSecInside/TorBot.git
-https://github.com/Ph055a/OSINT_Collection.git
-https://github.com/milo2012/osintstalker.git
-https://github.com/Jieyab89/OSINT-Cheat-sheet.git
-https://github.com/SharadKumar97/OSINT-SPY.git
-https://github.com/smicallef/spiderfoot.git
-https://github.com/Lissy93/web-check.git
-https://github.com/cipher387/API-s-for-OSINT.git
-https://github.com/pikpikcu/Pentest-Tools-Framework.git
-https://github.com/twelvesec/gasmask.git
-https://github.com/jasperan/whatsapp-osint.git
-https://github.com/Lucksi/Mr.Holmes.git
-https://github.com/wssheldon/osintui.git
-https://github.com/CScorza/OSINT-FORENSICS-MOBILE.git
-https://github.com/wddadk/Offensive-OSINT-Tools.git
-https://github.com/dev-lu/osint_toolkit.git
-https://github.com/Nhoya/gOSINT.git
-https://github.com/apurvsinghgautam/dark-web-osint-tools.git
-https://github.com/Micle5858/PENTESTING-BIBLE.git
-https://github.com/Rayyan-appsec/ALL-PENTESTING-BIBLE.git
-https://github.com/CyberAlbSecOP/Awesome_CyberSec_Bible.git
-https://github.com/readloud/Pentesting-Bible.git
-https://github.com/f/awesome-chatgpt-prompts.git
-https://github.com/pawelborkar/awesome-repos.git
-https://github.com/AlphaCorpIN/Hacking-Repos.git
-https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+sudo git clone https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE.git
+sudo git clone https://github.com/hmaverickadams/Beginner-Network-Pentesting.git
+sudo git clone https://github.com/androguard/androguard.git
+sudo git clone https://github.com/thehackingsage/hacktronian.git
+sudo git clone https://github.com/insightglacier/Dictionary-Of-Pentesting.git
+sudo git clone https://github.com/m14r41/PentestingEverything.git
+sudo git clone https://github.com/Tylous/SniffAir.git
+sudo git clone https://github.com/m4n3dw0lf/pythem.git
+sudo git clone https://github.com/gokulapap/Reconator.git
+sudo git clone https://github.com/casterbyte/NetworkNightmare.git
+sudo git clone https://github.com/swisskyrepo/HardwareAllTheThings.git
+sudo git clone https://github.com/Chudry/Xerror.git
+sudo git clone https://github.com/luigigubello/PayloadsAllThePDFs.git
+sudo git clone https://github.com/jmortega/python-pentesting.git
+sudo git clone https://github.com/Ha3MrX/Hacking.git
+sudo git clone https://github.com/redcode-labs/Citadel.git
+sudo git clone https://github.com/stampery/mongoaudit.git
+sudo git clone https://github.com/pop3ret/AWSome-Pentesting.git
+sudo git clone https://github.com/DonatoReis/Secbuild.git
+sudo git clone https://github.com/takuzoo3868/penta.git
+sudo git clone https://github.com/danieldurnea/FBI-tools.git
+sudo git clone https://github.com/Hrishikesh7665/Android-Pentesting-Checklist.git
+sudo git clone https://github.com/sundowndev/hacker-roadmap.git
+sudo git clone https://github.com/RhinoSecurityLabs/Swagger-EZ.git
+sudo git clone https://github.com/p1ngul1n0/blackbird.git
+sudo git clone https://github.com/gat3way/AirPirate.git
+sudo git clone https://github.com/hmaverickadams/Beginner-Network-Pentesting.git
+sudo git clone https://github.com/0x90/vpn-arsenal.git
+sudo git clone https://github.com/v3n0m-Scanner/V3n0M-Scanner.git
+sudo git clone https://github.com/Ranginang67/Firecrack.git
+sudo git clone https://github.com/arch3rPro/PentestTools.git
+sudo git clone https://github.com/killswitch-GUI/PenTesting-Scripts.git
+sudo git clone https://github.com/Telefonica/HomePWN.git
+sudo git clone https://github.com/infosecn1nja/Red-Teaming-Toolkit.git
+sudo git clone https://github.com/InfosecMatter/Minimalistic-offensive-security-tools.git
+sudo git clone https://github.com/hak5/bashbunny-payloads.git
+sudo git clone https://github.com/hak5/packetsquirrel-payloads.git
+sudo git clone https://github.com/liamg/gitjacker.git
+sudo git clone https://github.com/harsh-bothra/learn365.git
+sudo git clone https://github.com/hak5/usbrubberducky-payloads.git
+sudo git clone https://github.com/VenezuelanHackingTeam/blackbuntu.git
+sudo git clone https://github.com/CyberSecurityUP/PenTest-Consulting-Creator.git
+sudo git clone https://github.com/devploit/pwny.cc.git
+sudo git clone https://github.com/UkraineSecOps/PenTestingTutorials.git
+sudo git clone https://github.com/ZephrFish/Blog_Backup.git
+sudo git clone https://github.com/M4cs/DarkSpiritz.git
+sudo git clone https://github.com/vonahisec/pentesting_scripts.git
+sudo git clone https://github.com/PacktPublishing/-Ethical-Hacking-and-CompTIA-PenTest-Exam-Prep-PT0-002-.git
+sudo git clone https://github.com/rng70/Hacking-Resources.git
+sudo git clone https://github.com/CyberSecArmy/AWS-Offensive-Exploitation---Pentesting.git
+sudo git clone https://github.com/sarthak1598/PentestingWithPython-ToolBox.git
+sudo git clone https://github.com/simplerhacking/Evilginx3-Phishlets.git
+sudo git clone https://github.com/Sh0ckFR/Infosec-Useful-Stuff.git
+sudo git clone https://github.com/FreeZeroDays/OSS.git
+sudo git clone https://github.com/t3l3machus/PowerShell-Obfuscation-Bible.git
+sudo git clone https://github.com/arch3rPro/PentestTools.git
+sudo git clone https://github.com/mgeeky/Penetration-Testing-Tools.git
+sudo git clone https://github.com/Chudry/Xerror.git
+sudo git clone https://github.com/wddadk/Offensive-OSINT-Tools.git
+sudo git clone https://github.com/ANK1036Official/Git_Pentesting_Toolkit.git
+sudo git clone https://github.com/pablosnt/rekono.git
+sudo git clone https://github.com/M4cs/BabySploit.git
+sudo git clone https://github.com/cracker911181/Cracker-Tool.git
+sudo git clone https://github.com/sqlmapproject/sqlmap.git
+sudo git clone https://github.com/dmayer/idb.git
+sudo git clone https://github.com/screetsec/Sudomy.git
+sudo git clone https://github.com/AlexisAhmed/Python3PentestingTools.git
+sudo git clone https://github.com/pikpikcu/Pentest-Tools-Framework.git
+sudo git clone https://github.com/TheBurnsy/Vehicle-OSINT-Collection.git
+sudo git clone https://github.com/UndeadSec/SocialFish.git
+sudo git clone https://github.com/lockfale/OSINT-Framework.git
+sudo git clone https://github.com/sinwindie/OSINT.git
+sudo git clone https://github.com/s0md3v/Pho
+sudo git clone https://github.com/laramies/theHarvester.gitton.git
+sudo git clone https://github.com/cipher387/osint_stuff_tool_collection.git
+sudo git clone https://github.com/jivoi/awesome-osint.git
+sudo git clone https://github.com/DedSecInside/TorBot.git
+sudo git clone https://github.com/Ph055a/OSINT_Collection.git
+sudo git clone https://github.com/milo2012/osintstalker.git
+sudo git clone https://github.com/Jieyab89/OSINT-Cheat-sheet.git
+sudo git clone https://github.com/SharadKumar97/OSINT-SPY.git
+sudo git clone https://github.com/smicallef/spiderfoot.git
+sudo git clone https://github.com/Lissy93/web-check.git
+sudo git clone https://github.com/cipher387/API-s-for-OSINT.git
+sudo git clone https://github.com/pikpikcu/Pentest-Tools-Framework.git
+sudo git clone https://github.com/twelvesec/gasmask.git
+sudo git clone https://github.com/jasperan/whatsapp-osint.git
+sudo git clone https://github.com/Lucksi/Mr.Holmes.git
+sudo git clone https://github.com/wssheldon/osintui.git
+sudo git clone https://github.com/CScorza/OSINT-FORENSICS-MOBILE.git
+sudo git clone https://github.com/wddadk/Offensive-OSINT-Tools.git
+sudo git clone https://github.com/dev-lu/osint_toolkit.git
+sudo git clone https://github.com/Nhoya/gOSINT.git
+sudo git clone https://github.com/apurvsinghgautam/dark-web-osint-tools.git
+sudo git clone https://github.com/Micle5858/PENTESTING-BIBLE.git
+sudo git clone https://github.com/Rayyan-appsec/ALL-PENTESTING-BIBLE.git
+sudo git clone https://github.com/CyberAlbSecOP/Awesome_CyberSec_Bible.git
+sudo git clone https://github.com/readloud/Pentesting-Bible.git
+sudo git clone https://github.com/f/awesome-chatgpt-prompts.git
+sudo git clone https://github.com/pawelborkar/awesome-repos.git
+sudo git clone https://github.com/AlphaCorpIN/Hacking-Repos.git
+sudo git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
 
 
